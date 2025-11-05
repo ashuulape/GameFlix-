@@ -1,3 +1,15 @@
+
+
+ 
+ async src="https://www.googletagmanager.com/gtag/js?id=G-S867BNQ5F6"
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S867BNQ5F6');
+
+
 const apiKey = '45dbb14c7bb84b8bb943f1b1bbd3a093';
 const baseUrl = 'https://api.rawg.io/api/games';
 const categories = [
