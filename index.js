@@ -10,7 +10,7 @@
   gtag('config', 'G-S867BNQ5F6');
 
 
-const apiKey = '1c28457b558b4da19bc43d45c7764b3b';
+const apiKey = '21dbc3bad31144d6a46501c6b40ffbc9';
 const baseUrl = 'https://api.rawg.io/api/games';
 const categories = [
     { id: 4, name: 'Action' },
