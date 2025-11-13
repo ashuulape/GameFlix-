@@ -2,7 +2,7 @@ function getQueryParam(name) {
     const url = new URL(window.location.href);
     return url.searchParams.get(name);
 }
-const apiKey = '45dbb14c7bb84b8bb943f1b1bbd3a093';
+const apiKey = '1c28457b558b4da19bc43d45c7764b3b';
 const baseUrl = 'https://api.rawg.io/api/games';
 
 async function fetchScreenshots(gameId) {
